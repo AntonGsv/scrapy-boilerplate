@@ -4,8 +4,3 @@
 !/docker_persistent_data/.gitkeep
 /data/*
 !/data/.gitkeep
-node_modules/
-.env
-ecosystem.json
-logs/
-build/
